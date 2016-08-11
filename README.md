@@ -1,8 +1,8 @@
 # HermitBot Documentation
 ## To-Do list:
 - 8-Ball command
-- Choose command
-- Random playing card command
+- ~~Choose command~~
+- ~~Random playing card command~~
 - Anti-Spam function
 - Anti-Caps function
 - Custom Emojis :)
