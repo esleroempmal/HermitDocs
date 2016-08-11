@@ -1,6 +1,6 @@
 # HermitBot Documentation
 ## To-Do list:
-- [ ]8-Ball command
+- [ ] 8-Ball command
 - [x] Choose command
 - [x] Random playing card command
 - [ ] Anti-Spam function
