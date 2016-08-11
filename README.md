@@ -5,8 +5,7 @@
 - [x] Random playing card command
 - [ ] Anti-Spam function
 - [ ] Anti-Caps function
-- [ ] Custom Emojis :)
-- [ ] Profiles?
+- [ ] Profiles? Maybe...
 - [x] Minecraft Crafting Recipes. Craft all the stuffs.
 
 ## Commands list:
