@@ -1,12 +1,8 @@
 # HermitBot Documentation
 ## To-Do list:
-- [x] 8-Ball command
-- [x] Choose command
-- [x] Random playing card command
-- [ ] Anti-Spam function
-- [ ] Anti-Caps function
-- [ ] Profiles? Maybe...
-- [x] Minecraft Crafting Recipes. Craft all the stuffs.
+- [x] Profiles
+- [ ] Better Profiles
+- [ ] More Ideas
 
 ## Commands list:
 - `>HELP` - Sends a link to this page.
@@ -22,4 +18,5 @@
 - `>CARD` - Returns a randomly selected playing card.
 - `>CHOOSE [OPTIONS SEPARATED BY COMMAS]` - Chooses an option for you.
 - `>8BALL [QUESTION]` - Answers the question given 8-Ball style.
+- `>PROFILE [MENTION]` - Returns currently available statistics about the mentioned user.
 - More commands coming soon!
